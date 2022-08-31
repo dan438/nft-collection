@@ -371,7 +371,10 @@ export default function Home() {
           {renderButton()}
         </div>
         <div>
-          <img className={styles.image} src="./cryptodevs/0.svg" />
+          <img
+            className={styles.image}
+            src="https://raw.githubusercontent.com/LearnWeb3DAO/NFT-Collection/main/my-app/public/cryptodevs/1.svg"
+          />
         </div>
       </div>
 
